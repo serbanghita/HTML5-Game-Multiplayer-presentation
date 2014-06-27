@@ -5,6 +5,7 @@
 
 
    * Video: http://youtu.be/gVqMp4BDGzA (Thanks to Ana Angheloiu)
+   * In game screenshot: https://twitter.com/serbanghita/status/477013201117536257
    * Slideshow: -
    * Developer: Serban Ghita - Senior Software Engineer, Mobile Development @ Avangate
    * Copyright: Serba Ghita &copy; 2014
