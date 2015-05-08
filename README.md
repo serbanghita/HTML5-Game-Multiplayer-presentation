@@ -6,6 +6,6 @@
 
    * Video: http://youtu.be/gVqMp4BDGzA (Thanks to Ana Angheloiu)
    * In game screenshot: https://twitter.com/serbanghita/status/477013201117536257
-   * Slideshow: -
+   * Slideshow: http://www.avangate.com/docs/ro/events/HTML5-Game-Multiplayer-presentation/
    * Developer: Serban Ghita - Senior Software Engineer, Mobile Development @ Avangate
-   * Copyright: Serba Ghita &copy; 2014
+   * Copyright: Serban Ghita &copy; 2014
